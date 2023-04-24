@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm James Elrick</h1>
 <h3 align="center">Just an inefficient programmer</h3>
 
-<p align="left"> <a href="https://twitter.com/agedfruit_" target="blank"><img src="https://img.shields.io/twitter/follow/agedfruit_?logo=twitter&style=for-the-badge" alt="agedfruit_" /></a> </p>
-
 - 🔭 I’m currently working on **A Game**
 
 - 🌱 I’m currently learning **C#, react and Unity**

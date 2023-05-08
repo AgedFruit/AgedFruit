@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **A Game**
 
-- 🌱 I’m currently learning **C#, react and Unity**
+- 🌱 I’m currently learning **C# and Unity**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PamesJeat](https://github.com/PamesJeat)
 
